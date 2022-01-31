@@ -1,0 +1,24 @@
+2 - IS
+3 - Work (Record SAT/LP Record/Internship Reports)
+4 - Agile
+5,7 - SAT
+6 - CodeAgon
+8 - SAT Exam
+9 - Agile
+10 - Agile Exam
+11 - BDA
+12 - BDA/LP
+13 - LP
+14 - AI
+15 - AI Exam
+16 - BDA
+17 - BDA Exam
+18 - LP
+19 - LP Exam
+20 - CS
+21 - CS Exam
+22 - HashCode Prep
+23
+24
+25
+26
